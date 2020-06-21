@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ChessApplication {
 
-    static Boolean idk;
+    static Boolean ik;
 
     public static void main(String[] args) {
         SpringApplication.run(ChessApplication.class, args);
